@@ -1,4 +1,4 @@
-# sistem-pakar
+# Sistem Pakar
 Sistem Pakar untuk deteksi kerusakan mesin ATM dengan menggunakan metode / algoritma BFS (Best First Search)
 
 ### IDE :
